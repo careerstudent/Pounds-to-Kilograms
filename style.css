@@ -1,0 +1,8 @@
+body {
+    background: rgb(55, 142, 218);
+}
+
+h1, h3, form {
+   text-align: center;
+   color: whitesmoke;
+}
